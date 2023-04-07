@@ -1,0 +1,10 @@
+
+CAPTURE_FOLDER="/home/pi/capture_test/"
+SEND_FOLDER="/home/pi/send_photos/"
+BROKER_IP="192.168.15.65"
+REMOTE_PATH_1="Captured_images/"
+REMOTE_PATH_2="Output_images/"
+OPENDRIVE_USR="rickj8770@gmail.com"
+#OPENDRIVE_USR="manojregmi980@gmail.com"
+OPENDRIVE_PWD="Vasavk@1997"
+# OPENDRIVE_PWD="manojregmi"
